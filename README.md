@@ -37,7 +37,11 @@ En este blog se van a explicar las gráficas que estudian el comportamiento del 
 
 ## 🎥 Vídeos de la trayectoria que el robot sigue en cada mundo
 
-#### Rosbag Links
+[sand_world](media/sand.mp4)
+
+[floor_world](media/floor.mp4)
+
+### Rosbag Links
 
 - [🌍 Floor World Rosbag](rosbag_files/kitt_rosbag_floor)
 - [🏜️Sand World Rosbag](rosbag_files/kitt_rosbag_sand)
