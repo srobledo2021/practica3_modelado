@@ -2,9 +2,9 @@
 
 En este blog se van a explicar las gráficas que estudian el comportamiento del robot además de una serie de vídeos con su funcionamiento.
 
-## Graficas requeridas y explicación:
+### Graficas requeridas y explicación:
 
-# Comparativa de las velocidades de las ruedas en los dos escenarios publicadas en joint_states
+### Comparativa de las velocidades de las ruedas en los dos escenarios publicadas en joint_states
 
 Velocidad en cada rueda en el mapa de 'floor':
 
@@ -14,7 +14,7 @@ Velocidad en cada rueda en el mapa de 'sand':
 
 ![vel_sand](https://github.com/srobledo2021/practica3_modelado/assets/113594786/3866a27e-fd89-4b08-b3e7-a676b5323998)
 
-# Comparativa de la velocidad de las ruedas publicadas en joint_states y  los desplazamientos que el controlador cree hacer, publicados en el topic de la odometría.
+### Comparativa de la velocidad de las ruedas publicadas en joint_states y  los desplazamientos que el controlador cree hacer, publicados en el topic de la odometría.
 
 Comparativa de velocidad y desplazamiento en el mapa de 'floor':
 
@@ -25,7 +25,7 @@ Comparativa de velocidad y desplazamiento en el mapa de 'sand':
 
 ![desp_sand](https://github.com/srobledo2021/practica3_modelado/assets/113594786/a3588bcf-bfe4-470f-884a-51951f182e9e)
 
-# Comparativa de las aceleraciones ejercidas por el robot en cada mundo
+### Comparativa de las aceleraciones ejercidas por el robot en cada mundo
 
 Comparativa de aceleraciones en el mapa de 'floor':
 
@@ -36,10 +36,13 @@ Comparativa de aceleraciones en el mapa de 'sand':
 ![ac_sand](https://github.com/srobledo2021/practica3_modelado/assets/113594786/c976ee80-9ff4-4b96-a70d-42b6acbb5c51)
 
 
-## Vídeos de la trayectoria que el robot sigue en cada mundo (maximo ~15 segundos)
+### Vídeos de la trayectoria que el robot sigue en cada mundo (maximo ~15 segundos)
 
-Añade 2 links, uno por cada rosbag creado (puedes subirlo a one drive).
+### Rosbag Links
 
-## Video explicativo de la parte A
+[Floor World Rosbag](rosbag_files/kitt_rosbag_floor)
+[Sand World Rosbag](rosbag_files/kitt_rosbag_sand)
 
-Por último añade un vídeo autoexplicativo con audio (máximo de 5 minutos) donde se explique la Parte A de la práctica. Por favor, evita grabar vídeos con el móvil, utiliza cualquier aplicación de grabación de escritorio.
+### Video explicativo de la parte A
+
+Enlace al video [aquí](https://www.youtube.com/)
