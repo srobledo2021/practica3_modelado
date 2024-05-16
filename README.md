@@ -48,4 +48,4 @@ En este blog se van a explicar las gráficas que estudian el comportamiento del 
 
 ### 📹 Video explicativo de la parte A
 
-[Ver Vídeo](https://www.youtube.com/)
+[Ver Vídeo]([https://www.youtube.com/](https://www.youtube.com/watch?v=agDZcI3ZCNc))
